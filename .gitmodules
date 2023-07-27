@@ -1,0 +1,6 @@
+[submodule "package/vlmcsd"]
+	path = package/vlmcsd
+	url = https://github.com/ysc3839/openwrt-vlmcsd.git
+[submodule "package/luci-app-vlmcsd"]
+	path = package/luci-app-vlmcsd
+	url = https://github.com/cokebar/luci-app-vlmcsd.git
